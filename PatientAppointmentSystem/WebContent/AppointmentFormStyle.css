@@ -5,5 +5,23 @@ input {
 	border:2px solid black;
 }
 
+.hoursStyle {
+	
+	font-size: 25px;
+	font-family: Arial;
+}
+
+label {
+	
+	font-size: 20px;
+
+	
+}
+
+input {
+	
+	font-size: 15px;
+}
+
 
 
